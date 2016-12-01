@@ -1,5 +1,7 @@
 readme.txt
 
+Note: To run this project you also need the LRGV model (see the GitHub of jrkasprzyk), as well as a copy of the Borg MOEA (go to http://www.borgmoea.org/)
+
 Scen1.sh - Example shell script used to execute scenario runs under baseline conditions
 
 format_optfiles_for_eval-script.sh - Shell script used to format the results from the optimization runs to put them directly into the LRGV code
